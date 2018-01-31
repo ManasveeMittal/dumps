@@ -1,0 +1,42 @@
+{
+  "name": "1mg",
+  "domain": "1mg.com",
+  "logo": "https://logo.clearbit.com/1mg.com"
+}{
+  "name": "3LOQ",
+  "domain": "3loq.com",
+  "logo": "https://logo.clearbit.com/3loq.com"
+}{
+  "name": "ABB",
+  "domain": "abb.com",
+  "logo": "https://logo.clearbit.com/abb.com"
+}{
+  "name": "Abzooba",
+  "domain": "abzooba.com",
+  "logo": "https://logo.clearbit.com/abzooba.com"
+}{
+  "name": "AcadGild",
+  "domain": "acadgild.com",
+  "logo": "https://logo.clearbit.com/acadgild.com"
+}{
+  "name": "Accelya",
+  "domain": "accelya.com",
+  "logo": "https://logo.clearbit.com/accelya.com"
+}{
+  "name": "Accenture",
+  "domain": "accenture.com",
+  "logo": "https://logo.clearbit.com/accenture.com"
+}{
+  "error": {
+    "type": "unknown_record",
+    "message": "Unknown company."
+  }
+}{
+  "name": "Adobe",
+  "domain": "indin2007.org",
+  "logo": "https://logo.clearbit.com/indin2007.org"
+}{
+  "name": "ADP",
+  "domain": "adp.com",
+  "logo": "https://logo.clearbit.com/adp.com"
+}

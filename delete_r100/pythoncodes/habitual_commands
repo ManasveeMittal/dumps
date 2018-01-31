@@ -1,0 +1,28 @@
+   Attrition train command                                                         
+                                                                                   
+ python /usr/local/triloq/platform/forge/sklearn-classifiers/main.py -c /usr/local/triloq/platform/forge/sklearn-classifiers/nbtrain_config.ini -d /usr/local/triloq/platform/netbanking//2017-12/base7/ -ts
+
+ python /usr/local/triloq/platform/forge/sklearn-classifiers/main.py -c /usr/local/triloq/platform/forge/sklearn-classifiers/nbtrain_config.ini -d /media/triloq/tes3/nb/exp1/ -ts
+
+                                                                                   
+   Attrition Score command                                                         
+   python /usr/local/triloq/platform/forge/sklearn-classifiers/score_production.py
+   -c /usr/local/triloq/platform/forge/sklearn-classifiers/attr_score.ini -d /usr/local/triloq/platform/netbanking//2017-12/base7
+                                                                                   
+  Habitual train command                                                          
+                                                                                  
+  python /usr/local/triloq/platform/sklearn_recomodel/main.py
+  -c /usr/local/triloq/platform/sklearn_recomodel/train_config.ini -d /usr/local/triloq/platform/netbanking//2017-12/base7 -t
+                                                                                  
+  Prepare hbl data                                                                
+                                                                                  
+  python /usr/local/triloq/platform/sklearn_recomodel/prepare_input.py
+  /usr/local/triloq/platform/netbanking//2017-12/base7/attr_scores/               
+  /usr/local/triloq/platform/netbanking//2017-12/base7/hbl_proddata/              
+  /usr/local/triloq/platform/netbanking//2017-12/base7/hbl_flipdata//flip_input.csv
+                                                                                  
+  bestflip                                                                        
+                                                                                  
+  python /usr/local/triloq/platform/sklearn_recomodel/main.py
+  -c /usr/local/triloq/platform/sklearn_recomodel/nbflip_config.ini               
+  -d /usr/local/triloq/platform/netbanking//2017-12/base7 -f -m

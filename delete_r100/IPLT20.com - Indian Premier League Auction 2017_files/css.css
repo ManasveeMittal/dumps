@@ -1,0 +1,128 @@
+/* bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Hind Siliguri Light'), local('HindSiliguri-Light'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJn2f9HbH6jo1XVRlf2hHRoys.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0981-09FB, U+200B-200D, U+20B9, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Hind Siliguri Light'), local('HindSiliguri-Light'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJn-M4RpOJzuKtHNl4GxLjiNQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Hind Siliguri Light'), local('HindSiliguri-Light'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJn6SQyxDdyh5J6kYir5a9n-w.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hind Siliguri Regular'), local('HindSiliguri-Regular'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/f2eEi2pbIa8eBfNwpUl0AitmK5NdMj7SMXnqwujOiyU.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0981-09FB, U+200B-200D, U+20B9, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hind Siliguri Regular'), local('HindSiliguri-Regular'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/f2eEi2pbIa8eBfNwpUl0AitT3FIzPEO21-0D6YIrY1E.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hind Siliguri Regular'), local('HindSiliguri-Regular'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/f2eEi2pbIa8eBfNwpUl0AhBCek7ZypUE9OFPg18vTTM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* sampled usage */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/stats/Hind+Siliguri/normal/400);
+  unicode-range: U+20;
+}
+/* bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Hind Siliguri Medium'), local('HindSiliguri-Medium'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJn-usae0eUNv3sGpGY8WIDmc.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0981-09FB, U+200B-200D, U+20B9, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Hind Siliguri Medium'), local('HindSiliguri-Medium'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJnwkxZwHzYzQSWYFFXDR4AtY.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Hind Siliguri Medium'), local('HindSiliguri-Medium'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJnzeO7UKWTXK_MKhPYQqFnq0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Hind Siliguri SemiBold'), local('HindSiliguri-SemiBold'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJn4VYOHV9zWU2QkjB35VmAfc.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0981-09FB, U+200B-200D, U+20B9, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Hind Siliguri SemiBold'), local('HindSiliguri-SemiBold'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJnxitv1t1aoP8GJfOu9Ohcgg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Hind Siliguri SemiBold'), local('HindSiliguri-SemiBold'), url(http://fonts.gstatic.com/s/hindsiliguri/v4/fBpmjMpv5Rh6S25yVfWJnzJsR1j-Smzxy52UCYO8Tv4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Rajdhani Bold'), local('Rajdhani-Bold'), url(http://fonts.gstatic.com/s/rajdhani/v7/kcO_Mk7pjy8jlu86STaVz5d-YqeGZiJEdX0sEGp0JvE.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Rajdhani Bold'), local('Rajdhani-Bold'), url(http://fonts.gstatic.com/s/rajdhani/v7/kcO_Mk7pjy8jlu86STaVzyYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Rajdhani Bold'), local('Rajdhani-Bold'), url(http://fonts.gstatic.com/s/rajdhani/v7/kcO_Mk7pjy8jlu86STaVz44P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}

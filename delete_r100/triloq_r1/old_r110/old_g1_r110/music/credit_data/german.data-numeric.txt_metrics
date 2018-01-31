@@ -1,0 +1,213 @@
+---------------------------------------------------------------------------
+date            >2018-01-03 05:06:54
+DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+            max_depth=5, max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=9000, splitter='best')
+Performance measures: 
+Accuracy        > train: 0.74 test: 0.7
+Precision score > train: 0.91 test: 0.85
+Recall score    > train: 0.7 test: 0.7
+F1 score        > train: 0.79 test: 0.77
+MCC score       > train: 0.5 test: 0.38
+
+MCC score       > train: 0.5 test: 0.38
+train Confusion matrix: 
+[[394 165]
+ [ 39 202]]
+test Confusion matrix: 
+[[98 43]
+ [17 42]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:07:43
+DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+            max_depth=5, max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=9000, splitter='best')
+Performance measures: 
+Accuracy        > train: 0.74 test: 0.7
+Precision score > train: 0.91 test: 0.85
+Recall score    > train: 0.7 test: 0.7
+F1 score        > train: 0.79 test: 0.77
+MCC score       > train: 0.5 test: 0.38
+
+MCC score       > train: 0.5 test: 0.38
+train Confusion matrix: 
+[[394 165]
+ [ 39 202]]
+test Confusion matrix: 
+[[98 43]
+ [17 42]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:07:43
+RandomForestClassifier(bootstrap=True, class_weight='balanced',
+            criterion='entropy', max_depth=5, max_features='auto',
+            max_leaf_nodes=None, min_impurity_split=1e-07,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=1,
+            oob_score=False, random_state=9000, verbose=0,
+            warm_start=False)
+Performance measures: 
+Accuracy        > train: 0.79 test: 0.72
+Precision score > train: 0.92 test: 0.88
+Recall score    > train: 0.76 test: 0.7
+F1 score        > train: 0.83 test: 0.78
+MCC score       > train: 0.56 test: 0.43
+
+MCC score       > train: 0.56 test: 0.43
+train Confusion matrix: 
+[[427 132]
+ [ 39 202]]
+test Confusion matrix: 
+[[99 42]
+ [14 45]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:07:43
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Performance measures: 
+Accuracy        > train: 0.78 test: 0.76
+Precision score > train: 0.81 test: 0.81
+Recall score    > train: 0.9 test: 0.86
+F1 score        > train: 0.85 test: 0.83
+MCC score       > train: 0.45 test: 0.39
+
+MCC score       > train: 0.45 test: 0.39
+train Confusion matrix: 
+[[505  54]
+ [121 120]]
+test Confusion matrix: 
+[[121  20]
+ [ 29  30]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:07:43
+GaussianNB(priors=None)
+Performance measures: 
+Accuracy        > train: 0.75 test: 0.71
+Precision score > train: 0.84 test: 0.83
+Recall score    > train: 0.79 test: 0.74
+F1 score        > train: 0.82 test: 0.78
+MCC score       > train: 0.43 test: 0.35
+
+MCC score       > train: 0.43 test: 0.35
+train Confusion matrix: 
+[[444 115]
+ [ 84 157]]
+test Confusion matrix: 
+[[105  36]
+ [ 22  37]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:07:43
+SVC(C=0.025, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Performance measures: 
+Accuracy        > train: 0.78 test: 0.75
+Precision score > train: 0.79 test: 0.78
+Recall score    > train: 0.92 test: 0.89
+F1 score        > train: 0.85 test: 0.83
+MCC score       > train: 0.43 test: 0.35
+
+MCC score       > train: 0.43 test: 0.35
+train Confusion matrix: 
+[[513  46]
+ [133 108]]
+test Confusion matrix: 
+[[126  15]
+ [ 35  24]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:08:34
+DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+            max_depth=5, max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=9000, splitter='best')
+Performance measures: 
+Accuracy        > train: 0.74 test: 0.7
+Precision score > train: 0.91 test: 0.85
+Recall score    > train: 0.7 test: 0.7
+F1 score        > train: 0.79 test: 0.77
+MCC score       > train: 0.5 test: 0.38
+
+MCC score       > train: 0.5 test: 0.38
+train Confusion matrix: 
+[[394 165]
+ [ 39 202]]
+test Confusion matrix: 
+[[98 43]
+ [17 42]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:08:34
+RandomForestClassifier(bootstrap=True, class_weight='balanced',
+            criterion='entropy', max_depth=5, max_features='auto',
+            max_leaf_nodes=None, min_impurity_split=1e-07,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=1,
+            oob_score=False, random_state=9000, verbose=0,
+            warm_start=False)
+Performance measures: 
+Accuracy        > train: 0.79 test: 0.72
+Precision score > train: 0.92 test: 0.88
+Recall score    > train: 0.76 test: 0.7
+F1 score        > train: 0.83 test: 0.78
+MCC score       > train: 0.56 test: 0.43
+
+MCC score       > train: 0.56 test: 0.43
+train Confusion matrix: 
+[[427 132]
+ [ 39 202]]
+test Confusion matrix: 
+[[99 42]
+ [14 45]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:08:34
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Performance measures: 
+Accuracy        > train: 0.78 test: 0.76
+Precision score > train: 0.81 test: 0.81
+Recall score    > train: 0.9 test: 0.86
+F1 score        > train: 0.85 test: 0.83
+MCC score       > train: 0.45 test: 0.39
+
+MCC score       > train: 0.45 test: 0.39
+train Confusion matrix: 
+[[505  54]
+ [121 120]]
+test Confusion matrix: 
+[[121  20]
+ [ 29  30]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:08:34
+GaussianNB(priors=None)
+Performance measures: 
+Accuracy        > train: 0.75 test: 0.71
+Precision score > train: 0.84 test: 0.83
+Recall score    > train: 0.79 test: 0.74
+F1 score        > train: 0.82 test: 0.78
+MCC score       > train: 0.43 test: 0.35
+
+MCC score       > train: 0.43 test: 0.35
+train Confusion matrix: 
+[[444 115]
+ [ 84 157]]
+test Confusion matrix: 
+[[105  36]
+ [ 22  37]]------------------------------------------------------------------------------------------------------------------------------------------------------
+date            >2018-01-03 05:08:34
+SVC(C=0.025, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Performance measures: 
+Accuracy        > train: 0.78 test: 0.75
+Precision score > train: 0.79 test: 0.78
+Recall score    > train: 0.92 test: 0.89
+F1 score        > train: 0.85 test: 0.83
+MCC score       > train: 0.43 test: 0.35
+
+MCC score       > train: 0.43 test: 0.35
+train Confusion matrix: 
+[[513  46]
+ [133 108]]
+test Confusion matrix: 
+[[126  15]
+ [ 35  24]]---------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+"import seaborn as sns\n",
+"import matplotlib.pyplot as plt\n",
+"import numpy as np"
+"## Imports"
+"import numpy as np\n",
+"from scipy import stats\n",
+"## Plotly Imports"
+"import plotly.graph_objs as go \n",
+"from plotly.offline import init_notebook_mode,iplot,plot\n",
+"** Import pandas and read the csv file: 2014_World_Power_Consumption**"
+"import pandas as pd"
+"** Import the 2012_Election_Data csv file using pandas. **"
+"from plotly.offline import init_notebook_mode,iplot\n",
+"Get imports and set everything up to be working offline."
+"import plotly.plotly as py\n",
+"from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot"
+"** Import pandas and read the csv file: 	
+"import pandas as pd\n",
+"## Imports and Set-up"
+"from plotly import __version__\n",
+"from plotly.offline import download_plotlyjs, init_notebook_mode, plot, 
+"import cufflinks as cf"
+   "!function(t){if(\"object\"==typeof exports&&\"undefined\"!=typeof module)
+   "}else{if(\"object\"!=typeof a||!a.offset)throw new Error(\"cwise: Unknown 
+   "}d[a]=p,u[h]=new n(d,h),c=Math.max(p,c)}l(u,i),r=u.length;for(var g=new 
+   "r.redraw=n.redraw,r.extendTraces=n.extendTraces,r.prependTraces=n.prependTr
+   "valType:\"boolean\",dflt:!0}},paper_bgcolor:{valType:\"color\",dflt:o.backg
+"from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot\n",
+   "!function(t){if(\"object\"==typeof exports&&\"undefined\"!=typeof module)module.exports=t();else 
+   "}else{if(\"object\"!=typeof a||!a.offset)throw new Error(\"cwise: Unknown argument type \"+r[
+   "}d[a]=p,u[h]=new n(d,h),c=Math.max(p,c)}l(u,i),r=u.length;for(var g=new Array(r+a+1),y=new Array(
+   "r.redraw=n.redraw,r.extendTraces=n.extendTraces,r.prependTraces=n.prependTraces,r.addTraces=n.addTraces,r
+   "valType:\"boolean\",dflt:!0}},paper_bgcolor:{valType:\"color\",dflt:o.background},plot_bgcolor:{valType:\
+"Also don't worry if you find the matplotlib syntax frustrating, we actually won't be using it that often throughout 
+"** Import matplotlib.pyplot as plt and set %matplotlib inline if you are using the jupyter notebook. What command do 
+"Also don't worry if you find the matplotlib syntax frustrating, we actually 
+"** Import matplotlib.pyplot as plt and set %matplotlib inline if you are 
+"Also don't worry if you find the matplotlib syntax frustrating, we actually won't be 
+"** Import matplotlib.pyplot as plt and set %matplotlib inline if you are using the 
+"## Importing"
+"Import the `matplotlib.pyplot` module under the name `plt` (the tidy way):"
+"import matplotlib.pyplot as plt"
+"from random import sample\n",
+"from matplotlib import ticker\n",
+"import matplotlib.gridspec as gridspec"
+"from mpl_toolkits.mplot3d.axes3d import Axes3D"
+"Also don't worry if you find the matplotlib syntax frustrating, we actually won't be using it that often 
+"** Import matplotlib.pyplot as plt and set %matplotlib inline if you are using the jupyter notebook. What 
+"import matplotlib.pyplot as plt\n",=
